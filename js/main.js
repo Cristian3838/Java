@@ -157,3 +157,5 @@ console.log(validaidade(idade));*/
 //Lista de comandos do Java script
 
 //Lista de comandos do Java (Programador Cristian)
+
+//Comandos do Java
