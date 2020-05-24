@@ -151,3 +151,5 @@ var idade = prompt("Qual é sua idade");
 console.log(validaidade(idade));*/
 
 //Lista de comandos index
+
+//Lista de comandos do JS
