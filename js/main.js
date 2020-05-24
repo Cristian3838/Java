@@ -153,3 +153,5 @@ console.log(validaidade(idade));*/
 //Lista de comandos index
 
 //Lista de comandos do JS
+
+//Lista de coamandos do Jaca script
