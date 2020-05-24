@@ -43,6 +43,7 @@ function funcaoChange(elemento) {
     console.log(elemento.value)
 }
 
+
 //Programação em Javascript
 //Declaração de variaveis
 /*var nome = "Cristian Jonas Ataliba ";
@@ -148,3 +149,5 @@ function validaidade(idade) {
 
 var idade = prompt("Qual é sua idade");
 console.log(validaidade(idade));*/
+
+//Lista de comandos index
