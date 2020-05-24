@@ -154,4 +154,4 @@ console.log(validaidade(idade));*/
 
 //Lista de comandos do JS
 
-//Lista de coamandos do Jaca script
+//Lista de coamandos do Java script
