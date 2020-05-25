@@ -160,4 +160,4 @@ console.log(validaidade(idade));*/
 
 //Comandos do Java
 //Comandos do Javascript
-//Usando Javacript
+//Usando Javascript
