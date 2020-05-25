@@ -150,14 +150,4 @@ function validaidade(idade) {
 var idade = prompt("Qual é sua idade");
 console.log(validaidade(idade));*/
 
-//Lista de comandos index
-
-//Lista de comandos do JS
-
-//Lista de comandos do Java script
-
-//Lista de comandos do Java (Programador Cristian)
-
-//Comandos do Java
-//Comandos do Javascript
 //Usando Javascript
